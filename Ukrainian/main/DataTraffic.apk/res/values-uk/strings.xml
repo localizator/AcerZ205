@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dtm_app_name">Керування обміном даних</string>
+    <string name="dtm_warning_title" formatted="false">%1s - %2s</string>
+    <string name="dtm_daily">Щодня</string>
+    <string name="dtm_weekly">Щотижня</string>
+    <string name="dtm_monthly">Щомісяця</string>
+    <string name="dtm_widget_monthly">Дата - щомісяця</string>
+    <string name="dtm_widget_additional_reminder">Дата - додаткове нагадування</string>
+    <string name="dtm_monthly_warning">Щомісячне застереження</string>
+    <string name="dtm_mb">%.1f Мбайт</string>
+    <string name="dtm_period_hint" formatted="false">%1s - %2s</string>
+</resources>

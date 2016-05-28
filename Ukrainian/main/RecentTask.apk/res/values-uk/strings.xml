@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widgets_tab_label">ВІДЖЕТИ</string>
+    <string name="gadget_error_text">Проблеми із завантаженням віджета</string>
+    <string name="uninstall">Видалити</string>
+    <string name="remove">Видалити</string>
+    <string name="description">Інші спливні програми</string>
+    <string name="floatapp_tab">СПЛИВНІ ПРОГРАМИ</string>
+    <string name="more_float_apps">Інші плаваючі програми</string>
+    <string name="status_bar_no_recent_apps">Немає нещодавніх програм</string>
+    <string name="remove_all">Видалити все</string>
+    <string name="task_manager">Диспетчер завдань</string>
+</resources>
