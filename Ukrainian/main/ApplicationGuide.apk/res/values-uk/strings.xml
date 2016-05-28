@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Далі</string>
+    <string name="scroll_left_bar_title">Прокрутіть, щоб переглянути більше режимів зйомки</string>
+    <string name="zoome_title">Наблизитись/Віддалитись</string>
+    <string name="vcs_guide_summary">"Скажіть ім'я, щоб знайти контакти.
+Спробуйте!"</string>
+    <string name="vcs_guide_title">Голосовий пошук контактів</string>
+</resources>
